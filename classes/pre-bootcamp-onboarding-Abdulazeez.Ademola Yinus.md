@@ -1,4 +1,4 @@
-# My Notes — Abdulazeez Yinusa 
+# My Notes — Ezenwa victory 
 
 ---
 
@@ -24,10 +24,11 @@
 
 ### Challenges I faced
 
+*  had issues uploading my assignment 
 * I had issues with creating fork and also uploading the file to the correct repository
---
 
 ## My Takeaways
+
 
 * Always review my work before submitting, especially ensuring that descriptions and other required details are included.
 
@@ -35,16 +36,16 @@
 
 ## Questions I Still Have
 
-No
+how to upload my pictures  
 
 ---
 
 ## Resources I Found Useful
 
-The class was very useful, I practiced while the class was on 
+The class was very useful, I practiced after the class  
 
 
 
 ---
 
-*Submitted by: Abdulazeez Ademola Yinusa Ademolay*
+*Submitted by: Ezenwa victory :chinonye 
